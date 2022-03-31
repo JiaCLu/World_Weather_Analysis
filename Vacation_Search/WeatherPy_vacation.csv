@@ -1,0 +1,321 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+5,Moanda,GA,71.87,scattered clouds,-1.5575,13.2178,Heliconia Stadium Moanda
+8,Hithadhoo,MV,82.63,clear sky,-0.6,73.0833,Scoop Guest House
+9,Belmonte,BR,76.6,few clouds,-15.8631,-38.8828,Pousada Monte Carmelo O Pão
+12,Alice Springs,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+14,Tuy Hoa,VN,75.45,overcast clouds,13.0833,109.3,CenDeluxe Hotel Tuy Hoa
+16,Saint-Philippe,RE,76.59,overcast clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+18,Bengkulu,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+21,Carnarvon,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+22,Ambikapur,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
+25,Maceio,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+30,Atuona,PF,79.11,few clouds,-9.8,-139.0333,Villa Enata
+31,Paracuru,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+32,Rikitea,PF,79.11,few clouds,-9.8,-139.0333,Villa Enata
+34,Urucara,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+35,Airai,TL,72.61,overcast clouds,-8.9266,125.4092,
+36,Hirara,JP,75.13,clear sky,24.8,125.2833,Hotel Atoll Emerald Miyakojima
+38,Arraial Do Cabo,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+39,Busselton,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+42,Hilo,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+43,Fortuna,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+45,Marawi,PH,79.27,clear sky,7.9986,124.2928,Derogongan Residence
+48,Sao Felix Do Xingu,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+50,Vaini,TO,84.36,broken clouds,-21.2,-175.2,Keleti Beach Resort
+51,Tezu,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
+52,Emerald,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+55,Caravelas,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+59,Sao Joao Da Barra,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+60,Albany,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+61,Hobart,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+62,Souillac,MU,77.67,overcast clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+63,Mataura,PF,79.11,few clouds,-9.8,-139.0333,Villa Enata
+64,Mahebourg,MU,77.67,overcast clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+65,Hamilton,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+67,Eureka,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+69,Fukue,JP,75.13,clear sky,24.8,125.2833,Hotel Atoll Emerald Miyakojima
+72,Maumere,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+73,Barrow,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+74,Surt,LY,72.57,overcast clouds,31.2089,16.5887,الهادي ابوشعاله سرت
+78,Victoria,HK,82.45,clear sky,22.2855,114.1577,Mini Hotel Central
+82,Salalah,OM,71.69,clear sky,17.0151,54.0924,"HAMDAN PLAZA HOTEL SALALAH, an HTG Hotel"
+84,New Norfolk,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+85,Sao Miguel Do Araguaia,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+86,Port Blair,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
+89,Peringat,MY,85.62,overcast clouds,6.0333,102.2833,Daseda Guest House
+94,Huarmey,PE,70.66,overcast clouds,-10.0681,-78.1522,Hotel Miramar
+96,Ouango,CF,74.77,broken clouds,4.3133,22.5552,
+100,Kilindoni,TZ,77.67,moderate rain,-7.9139,39.6668,Bustani B&B
+102,Sitka,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+105,Katherine,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+106,Ohara,JP,75.13,clear sky,24.8,125.2833,Hotel Atoll Emerald Miyakojima
+109,Bethel,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+112,Galveston,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+113,Takoradi,GH,80.22,broken clouds,4.8845,-1.7554,Raybow International Hotel
+114,Kahului,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+115,San Andres,CO,80.62,scattered clouds,12.5847,-81.7006,Hotel Arena Blanca
+116,Cap Malheureux,MU,77.67,overcast clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+117,Esperance,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+120,Hasaki,JP,75.13,clear sky,24.8,125.2833,Hotel Atoll Emerald Miyakojima
+121,Cabedelo,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+123,Tupi Paulista,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+126,Vao,NC,78.78,clear sky,-22.6667,167.4833,Hotel Kou-Bugny
+128,Kapaa,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+129,Fayetteville,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+131,Kloulklubed,TL,72.61,overcast clouds,-8.9266,125.4092,
+132,Nantucket,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+133,Soyo,AO,77.97,broken clouds,-6.1349,12.3689,Hotel Mpampa
+134,Edd,ER,83.37,clear sky,13.9297,41.6925,
+136,Lompoc,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+137,Newport,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+142,Faanui,PF,79.11,few clouds,-9.8,-139.0333,Villa Enata
+143,Mount Isa,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+147,Alofi,NU,84.09,scattered clouds,-19.0595,-169.9187,Taloa Heights
+148,Grand Gaube,MU,77.67,overcast clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+152,Conde,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+153,Alta Floresta,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+154,Kulhudhuffushi,MV,83.25,scattered clouds,6.6221,73.07,Haajy Guest House 1
+156,Grand River South East,MU,77.67,overcast clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+159,Yulara,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+160,Ballina,AU,78.01,overcast clouds,-28.8667,153.5667,Ramada Hotel & Suites by Wyndham Ballina Byron
+162,Kodiak,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+167,Daru,PG,85.37,broken clouds,-9.0763,143.2092,Daru Lodge
+170,Portland,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+171,Raga,PH,79.27,clear sky,7.9986,124.2928,Derogongan Residence
+172,Armacao Dos Buzios,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+175,Bireun,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+178,Nome,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+184,Male,MV,83.25,scattered clouds,6.6221,73.07,Haajy Guest House 1
+185,Hualmay,PE,70.66,overcast clouds,-10.0681,-78.1522,Hotel Miramar
+186,Katsuura,JP,75.13,clear sky,24.8,125.2833,Hotel Atoll Emerald Miyakojima
+188,Kaseda,JP,75.13,clear sky,24.8,125.2833,Hotel Atoll Emerald Miyakojima
+193,Batticaloa,LK,80.31,clear sky,7.7102,81.6924,Grand Star Guest House
+194,Pak Chong,TH,90.21,broken clouds,14.708,101.4161,PakChong Phubade Hotel
+196,Guanica,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+197,Kapit,MY,85.62,overcast clouds,6.0333,102.2833,Daseda Guest House
+199,Ingham,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+200,Prainha,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+202,Avarua,CK,84.25,few clouds,-21.2078,-159.775,Paradise Inn
+203,Novo Aripuana,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+206,Alvaraes,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+208,Siddipet,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
+209,Itoman,JP,75.13,clear sky,24.8,125.2833,Hotel Atoll Emerald Miyakojima
+210,Laguna,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+212,Perth,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+214,Alepe,CI,82.27,scattered clouds,5.5004,-3.6631,BENENE 1
+218,Almeirim,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+222,Los Algarrobos,PA,75.61,few clouds,8.5,-82.4333,Waterfall Hostel
+225,Pisco,PE,70.66,overcast clouds,-10.0681,-78.1522,Hotel Miramar
+226,Avera,PF,79.11,few clouds,-9.8,-139.0333,Villa Enata
+227,Thinadhoo,MV,83.25,scattered clouds,6.6221,73.07,Haajy Guest House 1
+230,Mangan,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
+231,Paka,MY,85.62,overcast clouds,6.0333,102.2833,Daseda Guest House
+232,Kurashiki,JP,75.13,clear sky,24.8,125.2833,Hotel Atoll Emerald Miyakojima
+234,Itarema,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+236,Tiarei,PF,79.11,few clouds,-9.8,-139.0333,Villa Enata
+238,Sokoni,TZ,77.67,moderate rain,-7.9139,39.6668,Bustani B&B
+240,Zinder,NE,71.42,scattered clouds,13.8072,8.9881,Hotel de Ville
+242,Visakhapatnam,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
+243,Kavieng,PG,85.37,broken clouds,-9.0763,143.2092,Daru Lodge
+244,Iquitos,PE,70.66,overcast clouds,-10.0681,-78.1522,Hotel Miramar
+247,Liberal,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+248,Seminole,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+250,Kununurra,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+253,Jabiru,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+254,Magnolia,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+255,Westport,AU,78.01,overcast clouds,-28.8667,153.5667,Ramada Hotel & Suites by Wyndham Ballina Byron
+256,Cayenne,GF,78.1,overcast clouds,4.9333,-52.3333,Hôtel Le Dronmi
+257,Gat,LY,72.57,overcast clouds,31.2089,16.5887,الهادي ابوشعاله سرت
+258,Puerto Carreno,CO,80.62,scattered clouds,12.5847,-81.7006,Hotel Arena Blanca
+262,Boffa,GN,77.5,clear sky,10.1667,-14.0333,Hôtel Niara Belly
+270,Nago,JP,75.13,clear sky,24.8,125.2833,Hotel Atoll Emerald Miyakojima
+275,Tamandare,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+276,Muncar,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+277,Pucallpa,PE,70.66,overcast clouds,-10.0681,-78.1522,Hotel Miramar
+278,Tawkar,PH,79.27,clear sky,7.9986,124.2928,Derogongan Residence
+283,Broome,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+285,Hamilton,US,75.97,clear sky,39.1834,-84.5333,Six Acres Bed & Breakfast
+286,Santo Tomas,PE,70.66,overcast clouds,-10.0681,-78.1522,Hotel Miramar
+288,Tateyama,JP,75.13,clear sky,24.8,125.2833,Hotel Atoll Emerald Miyakojima
+289,Sabang,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+295,College,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+296,Jadu,LY,72.57,overcast clouds,31.2089,16.5887,الهادي ابوشعاله سرت
+297,Raton,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+298,Port Hedland,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+300,Majene,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+308,Buckeye,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+309,Juneau,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+310,Georgetown,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+311,Mamallapuram,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
+314,Andros Town,BS,75.16,clear sky,24.7,-77.7667,Hanks place
+316,Ledyard,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+317,Itupiranga,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+318,Soe,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+320,Hihifo,TO,84.36,broken clouds,-21.2,-175.2,Keleti Beach Resort
+321,Sorong,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+325,Abohar,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
+326,Vanimo,PG,85.37,broken clouds,-9.0763,143.2092,Daru Lodge
+330,Collie,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+332,Nagtipunan,PH,88.5,scattered clouds,16.2167,121.6,D' Fields Travellers Place
+336,Carlagan,PH,88.5,scattered clouds,16.2167,121.6,D' Fields Travellers Place
+340,Olinda,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+341,Estelle,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+343,Tarauaca,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+347,Fremont,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+348,Nguiu,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+349,Yamasaki,JP,75.13,clear sky,24.8,125.2833,Hotel Atoll Emerald Miyakojima
+357,Port-Gentil,GA,80.17,broken clouds,-0.7193,8.7815,Fengshui Residence
+360,Lynchburg,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+361,Mata De Sao Joao,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+365,Mount Gambier,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+366,Bismarck,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+370,Banda Aceh,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+371,Padang,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+373,Victoria,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+374,Kavaratti,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
+375,Gaya,NE,71.42,scattered clouds,13.8072,8.9881,Hotel de Ville
+377,Jacqueville,CI,82.27,scattered clouds,5.5004,-3.6631,BENENE 1
+378,Dhidhdhoo,MV,83.25,scattered clouds,6.6221,73.07,Haajy Guest House 1
+379,Sinnamary,GF,78.1,overcast clouds,4.9333,-52.3333,Hôtel Le Dronmi
+382,Geraldton,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+386,Atambua,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+388,Roma,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+389,Touros,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+390,Standish,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+395,Saint-Georges,GF,78.1,overcast clouds,4.9333,-52.3333,Hôtel Le Dronmi
+396,Coos Bay,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+397,Ahuimanu,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+399,Harper,LR,79.43,scattered clouds,4.375,-7.7169,Screensaver
+401,Wajima,JP,75.13,clear sky,24.8,125.2833,Hotel Atoll Emerald Miyakojima
+404,Meulaboh,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+405,Rio Grande,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+406,Jardim,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+409,Labuhan,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+413,Arawa,PG,85.37,broken clouds,-9.0763,143.2092,Daru Lodge
+416,Griffith,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+417,Bambous Virieux,MU,77.67,overcast clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+420,Cotonou,BJ,82.85,overcast clouds,6.3654,2.4183,Novotel Cotonou Orisha
+422,Eydhafushi,MV,83.25,scattered clouds,6.6221,73.07,Haajy Guest House 1
+426,Carnot,CF,74.77,broken clouds,4.3133,22.5552,
+427,Naze,JP,75.13,clear sky,24.8,125.2833,Hotel Atoll Emerald Miyakojima
+428,Ulladulla,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+429,Duku,NG,79.05,few clouds,11.2361,4.9073,
+430,Cidreira,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+432,Ishinomaki,JP,75.13,clear sky,24.8,125.2833,Hotel Atoll Emerald Miyakojima
+433,Tabou,CI,82.27,scattered clouds,5.5004,-3.6631,BENENE 1
+434,Sun City West,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+435,Winslow,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+437,Saint George,US,75.97,clear sky,39.1834,-84.5333,Six Acres Bed & Breakfast
+439,Kulu,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
+441,Eirunepe,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+442,Port Lincoln,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+445,Bikramganj,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
+447,Barra Patuca,HN,78.39,few clouds,15.8,-84.2833,
+453,Samarai,PG,85.37,broken clouds,-9.0763,143.2092,Daru Lodge
+455,Buala,SB,84.25,moderate rain,-8.145,159.5921,Maringe Lagoon Lodge
+459,Kutoarjo,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+464,Kawalu,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+466,Quelimane,MZ,71.64,light rain,-17.8786,36.8883,Hotel Flamingo
+472,Bubaque,GW,75.15,broken clouds,11.2833,-15.8333,"Casa Dora, Bubaque"
+476,Arroyo,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+479,Trincomalee,LK,80.31,clear sky,7.7102,81.6924,Grand Star Guest House
+480,Pedasi,PA,75.61,few clouds,8.5,-82.4333,Waterfall Hostel
+486,Nyalikungu,TZ,77.67,moderate rain,-7.9139,39.6668,Bustani B&B
+491,Dana Point,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+492,Matara,LK,80.31,clear sky,7.7102,81.6924,Grand Star Guest House
+494,Acajutla,SV,80.44,broken clouds,13.5928,-89.8275,Laureles
+495,Omboue,GA,80.17,broken clouds,-0.7193,8.7815,Fengshui Residence
+496,Idah,NG,79.05,few clouds,11.2361,4.9073,
+497,Dingle,AU,78.01,overcast clouds,-28.8667,153.5667,Ramada Hotel & Suites by Wyndham Ballina Byron
+498,Clarksdale,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+502,Bobo Dioulasso,BF,83.32,scattered clouds,11.1771,-4.2979,IBA Hotel
+503,Morgan City,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+504,Bardiyah,LY,72.57,overcast clouds,31.2089,16.5887,الهادي ابوشعاله سرت
+505,Union,PH,88.5,scattered clouds,16.2167,121.6,D' Fields Travellers Place
+506,Lorengau,PG,85.37,broken clouds,-9.0763,143.2092,Daru Lodge
+508,Nelson Bay,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+511,Pauini,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+515,Luwuk,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+518,Uniara,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
+520,Saint-Joseph,RE,76.59,overcast clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+522,Diamantino,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+523,Mitu,CO,80.62,scattered clouds,12.5847,-81.7006,Hotel Arena Blanca
+524,Monrovia,LR,79.43,scattered clouds,4.375,-7.7169,Screensaver
+527,Makakilo City,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+528,Bodden Town,KY,80.6,few clouds,19.2833,-81.25,Will T Place
+531,Nemuro,JP,75.13,clear sky,24.8,125.2833,Hotel Atoll Emerald Miyakojima
+533,Mildura,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+534,Palabuhanratu,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+535,Iberia,PE,70.66,overcast clouds,-10.0681,-78.1522,Hotel Miramar
+536,Sabha,LY,74.23,overcast clouds,27.0377,14.4283,Foundation Taaj Asala for Historical Research and Archeology
+537,Amapa,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+538,Broken Hill,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+540,East Foothills,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+542,Cooma,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+543,Martapura,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+546,Sulangan,PH,88.5,scattered clouds,16.2167,121.6,D' Fields Travellers Place
+547,Bhanpuri,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
+550,Tres Coracoes,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+551,Suluq,LY,72.57,overcast clouds,31.2089,16.5887,الهادي ابوشعاله سرت
+553,Daudnagar,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
+554,Along,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
+561,Lamar,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+562,Gizo,SB,84.25,moderate rain,-8.145,159.5921,Maringe Lagoon Lodge
+568,Cowra,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+570,Manaus,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+572,Batie,BF,83.32,scattered clouds,11.1771,-4.2979,IBA Hotel
+573,Leh,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
+575,Bilma,NE,71.42,scattered clouds,13.8072,8.9881,Hotel de Ville
+577,Caucaia,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+579,Mackay,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+580,Babanusah,PH,79.27,clear sky,7.9986,124.2928,Derogongan Residence
+582,Wakkanai,JP,75.13,clear sky,24.8,125.2833,Hotel Atoll Emerald Miyakojima
+586,Da Nang,VN,75.45,overcast clouds,13.0833,109.3,CenDeluxe Hotel Tuy Hoa
+588,New Smyrna Beach,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+590,Maragogi,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+593,Ailigandi,PA,75.61,few clouds,8.5,-82.4333,Waterfall Hostel
+600,Bairiki,KI,86.0,few clouds,1.3292,172.9752,Tarawa Boutique Hotel
+601,Rafai,CF,74.77,broken clouds,4.3133,22.5552,
+603,Ginda,ER,83.37,clear sky,13.9297,41.6925,
+604,Orcopampa,PE,70.66,overcast clouds,-10.0681,-78.1522,Hotel Miramar
+606,Half Moon Bay,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+609,Seoni Malwa,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
+611,Jutai,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+612,Redmond,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+613,Koumac,NC,78.78,clear sky,-22.6667,167.4833,Hotel Kou-Bugny
+615,Namatanai,PG,85.37,broken clouds,-9.0763,143.2092,Daru Lodge
+616,Saint-Pierre,RE,76.68,scattered clouds,-21.3393,55.4781,Lindsey Hôtel
+619,Vila Velha,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+620,Saurimo,AO,77.97,broken clouds,-6.1349,12.3689,Hotel Mpampa
+622,Cartagena,CO,80.62,scattered clouds,12.5847,-81.7006,Hotel Arena Blanca
+627,San Policarpo,PH,88.5,scattered clouds,16.2167,121.6,D' Fields Travellers Place
+631,Pasighat,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
+632,Taree,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+636,Merauke,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+637,Indramayu,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
+641,Bonfim,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+643,Santa Isabel Do Rio Negro,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+645,Pacifica,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+647,Nacogdoches,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+651,Dicabisagan,PH,88.5,scattered clouds,16.2167,121.6,D' Fields Travellers Place
+653,Iracoubo,GF,78.1,overcast clouds,4.9333,-52.3333,Hôtel Le Dronmi
+654,Remanso,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+655,Maitum,PH,88.5,scattered clouds,16.2167,121.6,D' Fields Travellers Place
+657,Tapaua,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+658,Lata,SB,84.25,moderate rain,-8.145,159.5921,Maringe Lagoon Lodge
+659,Honiara,SB,84.25,moderate rain,-8.145,159.5921,Maringe Lagoon Lodge
+660,Karratha,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+661,Miri,MY,85.62,overcast clouds,6.0333,102.2833,Daseda Guest House
+664,Pitimbu,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
+666,Mugumu,TZ,77.67,moderate rain,-7.9139,39.6668,Bustani B&B
+669,Poum,NC,78.78,clear sky,-22.6667,167.4833,Hotel Kou-Bugny
+671,Bandarbeyla,SO,79.14,broken clouds,9.4942,50.8122,JABIR HOTEL
+676,Tuckahoe,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
+677,Tadine,NC,78.78,clear sky,-22.6667,167.4833,Hotel Kou-Bugny
+678,Rovira,CO,80.62,scattered clouds,12.5847,-81.7006,Hotel Arena Blanca
+682,Kalmunai,LK,80.31,clear sky,7.7102,81.6924,Grand Star Guest House
+687,Charters Towers,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
+688,Quatre Cocos,MU,77.67,overcast clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
+691,Juba,PH,79.27,clear sky,7.9986,124.2928,Derogongan Residence
+694,Yarada,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
+696,Sungaipenuh,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
