@@ -13,7 +13,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 31,Paracuru,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
 32,Rikitea,PF,79.11,few clouds,-9.8,-139.0333,Villa Enata
 34,Urucara,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
-35,Airai,TL,72.61,overcast clouds,-8.9266,125.4092,
 36,Hirara,JP,75.13,clear sky,24.8,125.2833,Hotel Atoll Emerald Miyakojima
 38,Arraial Do Cabo,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
 39,Busselton,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
@@ -44,7 +43,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 86,Port Blair,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
 89,Peringat,MY,85.62,overcast clouds,6.0333,102.2833,Daseda Guest House
 94,Huarmey,PE,70.66,overcast clouds,-10.0681,-78.1522,Hotel Miramar
-96,Ouango,CF,74.77,broken clouds,4.3133,22.5552,
 100,Kilindoni,TZ,77.67,moderate rain,-7.9139,39.6668,Bustani B&B
 102,Sitka,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
 105,Katherine,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
@@ -62,10 +60,8 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 126,Vao,NC,78.78,clear sky,-22.6667,167.4833,Hotel Kou-Bugny
 128,Kapaa,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
 129,Fayetteville,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
-131,Kloulklubed,TL,72.61,overcast clouds,-8.9266,125.4092,
 132,Nantucket,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
 133,Soyo,AO,77.97,broken clouds,-6.1349,12.3689,Hotel Mpampa
-134,Edd,ER,83.37,clear sky,13.9297,41.6925,
 136,Lompoc,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
 137,Newport,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
 142,Faanui,PF,79.11,few clouds,-9.8,-139.0333,Villa Enata
@@ -196,10 +192,8 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 417,Bambous Virieux,MU,77.67,overcast clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
 420,Cotonou,BJ,82.85,overcast clouds,6.3654,2.4183,Novotel Cotonou Orisha
 422,Eydhafushi,MV,83.25,scattered clouds,6.6221,73.07,Haajy Guest House 1
-426,Carnot,CF,74.77,broken clouds,4.3133,22.5552,
 427,Naze,JP,75.13,clear sky,24.8,125.2833,Hotel Atoll Emerald Miyakojima
 428,Ulladulla,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
-429,Duku,NG,79.05,few clouds,11.2361,4.9073,
 430,Cidreira,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
 432,Ishinomaki,JP,75.13,clear sky,24.8,125.2833,Hotel Atoll Emerald Miyakojima
 433,Tabou,CI,82.27,scattered clouds,5.5004,-3.6631,BENENE 1
@@ -210,7 +204,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 441,Eirunepe,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
 442,Port Lincoln,AU,78.35,scattered clouds,-23.7,133.8833,Desert Palms Alice Springs
 445,Bikramganj,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
-447,Barra Patuca,HN,78.39,few clouds,15.8,-84.2833,
 453,Samarai,PG,85.37,broken clouds,-9.0763,143.2092,Daru Lodge
 455,Buala,SB,84.25,moderate rain,-8.145,159.5921,Maringe Lagoon Lodge
 459,Kutoarjo,ID,84.38,scattered clouds,-3.8004,102.2655,Grage Hotel Bengkulu
@@ -225,7 +218,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 492,Matara,LK,80.31,clear sky,7.7102,81.6924,Grand Star Guest House
 494,Acajutla,SV,80.44,broken clouds,13.5928,-89.8275,Laureles
 495,Omboue,GA,80.17,broken clouds,-0.7193,8.7815,Fengshui Residence
-496,Idah,NG,79.05,few clouds,11.2361,4.9073,
 497,Dingle,AU,78.01,overcast clouds,-28.8667,153.5667,Ramada Hotel & Suites by Wyndham Ballina Byron
 498,Clarksdale,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
 502,Bobo Dioulasso,BF,83.32,scattered clouds,11.1771,-4.2979,IBA Hotel
@@ -275,8 +267,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 590,Maragogi,BR,76.44,broken clouds,-9.6658,-35.7353,Hotel Ponta Verde Maceió
 593,Ailigandi,PA,75.61,few clouds,8.5,-82.4333,Waterfall Hostel
 600,Bairiki,KI,86.0,few clouds,1.3292,172.9752,Tarawa Boutique Hotel
-601,Rafai,CF,74.77,broken clouds,4.3133,22.5552,
-603,Ginda,ER,83.37,clear sky,13.9297,41.6925,
 604,Orcopampa,PE,70.66,overcast clouds,-10.0681,-78.1522,Hotel Miramar
 606,Half Moon Bay,US,78.53,very heavy rain,19.7297,-155.09,Hilo Hawaiian Hotel
 609,Seoni Malwa,IN,91.51,clear sky,23.1167,83.2,Hotel Birendra Prabha
